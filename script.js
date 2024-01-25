@@ -15,3 +15,10 @@ console.log(20 + 20)
 // parseInt
 let birthday = "2004";
 console.log(parseInt(birthday))
+
+
+
+// parseFloat
+let float = "2004343.43434889000";
+console.log(parseFloat(parseFloat(float).toFixed(2)))
+
