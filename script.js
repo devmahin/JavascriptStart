@@ -11,3 +11,7 @@ console.log(typeof name)
 
 // add 
 console.log(20 + 20)
+
+// parseInt
+let birthday = "2004";
+console.log(parseInt(birthday))
