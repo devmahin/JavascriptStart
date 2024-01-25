@@ -7,3 +7,7 @@ console.log(typeof age)
 var name = "Mahin Howlader"
 console.log(name)
 console.log(typeof name)
+
+
+// add 
+console.log(20 + 20)
