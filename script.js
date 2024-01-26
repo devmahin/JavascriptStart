@@ -87,3 +87,20 @@ let addtion1 = 23;
 
 
 
+// number
+let Numbers = Number(" 23434")
+console.log(Numbers)
+let Numbers2 = Number(" mahin")
+console.log(Numbers2)
+let Numbers3 = Number(" 50,32")
+console.log(Numbers3)
+
+
+
+// isNaN
+let isNaN1 = isNaN("mahin")
+console.log(isNaN1)
+let isNaN2 = isNaN("333")
+console.log(isNaN2)
+let isNaN3 = isNaN(343)
+console.log(isNaN3)
