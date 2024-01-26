@@ -22,3 +22,11 @@ console.log(parseInt(birthday))
 let float = "2004343.43434889000";
 console.log(parseFloat(parseFloat(float).toFixed(2)))
 
+
+
+// Infinity -Infinity
+const infi = 50/0;
+console.log(infi)
+
+const subtraction = -50 / 0;
+console.log(subtraction) 
